@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+A1,Arduino_Nano_WithMountingHoles,1,Arduino_Nano_v3.x,
+"C1, C2",0805,2,100nf,C49678
+"C3, C4",0805,2,12pf,C1792
+"D1, D2",0805,2,LED,
+J1,PinHeader_2x03_P2.54mm_Vertical,1,ICSP,
+R1,0805,1,10k,C17414
+"R2, R3",0805,2,1k,
+SW1,SW_Push_1P1T_XKB_TS-1187A,1,SW_SPST,C318884
+U1,TQFP-32_7x7mm_P0.8mm,1,ATmega328P-A,C14877
+Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering,1,Crystal_GND24,C13738
